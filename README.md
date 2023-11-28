@@ -2,4 +2,4 @@
 
 local rep test3 clonint ssh
 
-pull
+local conflict value
